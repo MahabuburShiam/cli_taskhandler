@@ -14,5 +14,37 @@
     "createdAt": "2025-09-21T07:26:33.172Z",
     "id": "user_1758439593174_gp4mb4270",
     "lastLogin": "2025-09-21T10:00:11.431Z"
+  },
+  {
+    "username": "shiam",
+    "email": "shiam123@gmail.com",
+    "password": "$2b$10$dZdtdOCzAk491TEhDScgJeOaytAwwuDBPJ9.P9sKPrHY63WMYb0vi",
+    "createdAt": "2025-09-21T17:31:40.391Z",
+    "id": "user_1758475900393_9wa5t4y68",
+    "lastLogin": null
+  },
+  {
+    "username": "F",
+    "email": "f@gmail.com",
+    "password": "$2b$10$Nwpl5.y0bKLV4GukzomSl.0TlSKq1uUhOWFCQGsj6T4rRhUXQJsCe",
+    "createdAt": "2025-09-21T17:33:27.647Z",
+    "id": "user_1758476007672_bvst33t1t",
+    "lastLogin": "2025-09-21T17:33:40.687Z"
+  },
+  {
+    "username": "shiam12",
+    "email": "shiam32@gmail.com",
+    "password": "$2b$10$V3cou85ocqQGzfXXQn8tEOAdBozC.YuhDbBAh6.Ku33zZy1wHG/mC",
+    "createdAt": "2025-09-21T17:50:52.831Z",
+    "id": "user_1758477052860_vp0e2t6sg",
+    "lastLogin": "2025-09-21T18:32:22.259Z"
+  },
+  {
+    "username": "shiam123",
+    "email": "s@gmail.com",
+    "password": "$2b$10$uW.lRubizGL.W/0i.E76oOJjxBsp5ikc1hqCkyvF2bcbJltN9oVAi",
+    "createdAt": "2025-09-21T17:57:36.947Z",
+    "id": "user_1758477456948_vjna8wtmx",
+    "lastLogin": "2025-09-21T18:30:40.522Z"
   }
 ]
