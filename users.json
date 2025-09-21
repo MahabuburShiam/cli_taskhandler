@@ -1,0 +1,18 @@
+[
+  {
+    "username": "shiam",
+    "email": "shiam@gmail.com",
+    "password": "$2b$10$tGtKQxjUquqD8MvYHOMs8.2Eo9KLSskMk.gK1vCv.Wne1yxQM.d.q",
+    "createdAt": "2025-09-21T07:17:50.240Z",
+    "id": "user_1758439070241_3qzl1c8vj",
+    "lastLogin": null
+  },
+  {
+    "username": "asif",
+    "email": "asif@gmail.com",
+    "password": "$2b$10$4vA13jJPScK53sTrBkbbpuhDJ6E0rTMrxqgR3BdP1xy6rfgpQM/oq",
+    "createdAt": "2025-09-21T07:26:33.172Z",
+    "id": "user_1758439593174_gp4mb4270",
+    "lastLogin": "2025-09-21T10:00:11.431Z"
+  }
+]
